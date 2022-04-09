@@ -25,7 +25,6 @@
 | ------ | --------------- | ---- |
 | 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. |
 | RPG 不动产 | RPG Real Estate | Upd. |
-| 辉夜大小姐想让我告白 -Ultra Romantic- | Kaguya-sama wa Kokurasetai S3 | 未定 |
 
 ## 2021 冬季
 
