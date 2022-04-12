@@ -25,6 +25,7 @@
 | ------ | --------------- | ---- |
 | 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. |
 | RPG 不动产 | RPG Real Estate | Upd. |
+| 间谍过家家 | Spy x Family | Upd. |
 
 ## 2021 冬季
 
