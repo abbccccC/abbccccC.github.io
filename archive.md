@@ -1,6 +1,6 @@
 # 作品
 
-> 本组目前仅制作简体内嵌字幕，使用 AVC 编码，未来考虑出合集的外挂字幕。
+> 对于连载中的动画，本组制作的简体内嵌字幕均使用 AVC 编码。动画完结后统一发布内嵌字幕修正和内封字幕合集，使用 HEVC 编码。
 >
 > 所有作品均能在 [喵呜动漫](https://meows.com.cn/) 找到。
 >
@@ -12,38 +12,34 @@
 | Fin. | Finished | 已完成制作 |
 | Upd. | Updating | 随剧集更新 |
 | Abd. | Abandoned | 放弃制作 |
-| Rev. | Revision | 修订重置版 |
-| CHS | Chinese (Simplified) | 简体中文 |
-| CHT | Chinese (Traditional) | 繁体中文 |
-| ExSub. | External Subtitles | 外挂字幕 |
-
-默认为简体中文内嵌字幕。
 
 ## 2022 春季
 
-| 中文名 | 罗马音 / 英文名 | 状态 |
-| ------ | --------------- | ---- |
-| 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. |
-| RPG 不动产 | RPG Real Estate | Upd. |
-| 间谍过家家 | Spy x Family | Upd. |
-| 鬼裤衩 | Onipan! | Upd. |
+> 特殊：发布《间谍过家家》 4k 内封字幕版本（由洛心.超分），完结后不另发合集。（第一话暂未发布）
+
+| 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
+| ------ | --------------- | ---- | ---- |
+| 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. | CHS |
+| RPG 不动产 | RPG Real Estate | Upd. | CHS |
+| 间谍过家家 | Spy x Family | Upd. | CHS |
+| 鬼裤衩 | Onipan! | Upd. | CHS |
 
 ## 2021 冬季
 
 > 非常抱歉，由于某些原因，这三部番的字幕都未能继续制作。
-> 
-> 《明日同学的水手服》可能重新开坑。
 
-| 中文名 | 罗马音 / 英文名 | 状态 |
-| ------ | --------------- | ---- |
-| 女孩的钓鱼慢活 | Slow Loop | Abd. |
-| 明日同学的水手服 | Akebi-chan no Sailor-fuku | Abd. / Pln.|
-| 擅长捉弄人的高木同学 第三季 | Karakai Jouzu no Takagi-san S3 | Abd. |
+| 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
+| ------ | --------------- | ---- | ---- |
+| 女孩的钓鱼慢活 | Slow Loop | Abd. | CHS |
+| 明日同学的水手服 | Akebi-chan no Sailor-fuku | Abd. | CHS |
+| 擅长捉弄人的高木同学 第三季 | Karakai Jouzu no Takagi-san S3 | Abd. | CHS |
 
 ## 2021 秋季
 
-| 中文名 | 罗马音 / 英文名 | 状态 |
-| ------ | --------------- | ---- |
-| 当雏菊邂逅少女 | Deji Meets Girl | Fin. / Rev. Pln. |
-| 看得见的女孩 | Mieruko-chan | Fin. |
-| 加油！同期酱 | Ganbare Douki-chan | Fin. CHS & CHT|
+> 《当雏菊邂逅少女》BDrip 简体内嵌、内封字幕预计 5 月发布。
+
+| 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
+| ------ | --------------- | ---- | ---- |
+| 当雏菊邂逅少女 | Deji Meets Girl | Fin. / BD. Pln. | CHS |
+| 看得见的女孩 | Mieruko-chan | Fin. | CHS |
+| 加油！同期酱 | Ganbare Douki-chan | Fin. | CHS & CHT |
