@@ -1,6 +1,6 @@
 # 关于 MingYSub
 
-MingYSub 当前是个小发布组，字幕文本来源于版权方。
+MingYSub 当前是个小发布组，字幕文本大多来源于版权方。
 
 目前仅制作简体内嵌和内封字幕。
 
@@ -10,7 +10,7 @@ MingYSub 当前是个小发布组，字幕文本来源于版权方。
 
 # 交流
 
-[加入 Telegram 群组](https://t.me/MingYSub)
+[加入 Telegram 群组](https://t.me/MingYSub) | [QQ 群](https://jq.qq.com/?_wv=1027&k=BuzCKtUr)
 
 如果您有兴趣加入我们，请加入群组后私信。
 

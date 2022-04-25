@@ -15,7 +15,7 @@
 
 ## 2022 春季
 
-> 特殊：发布《间谍过家家》 4k 内封字幕版本（由洛心.超分），完结后不另发合集。（第一话暂未发布）
+> 特殊：发布《间谍过家家》 4k 内封字幕版本（由洛心.超分），完结后不另发合集。
 
 | 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
 | ------ | --------------- | ---- | ---- |
@@ -23,6 +23,8 @@
 | RPG 不动产 | RPG Real Estate | Upd. | CHS |
 | 间谍过家家 | Spy x Family | Upd. | CHS |
 | 鬼裤衩 | Onipan! | Upd. | CHS |
+| 街角魔族 2丁目 | Machikado Mazoku S2 | Upd. | CHS |
+| 社畜小姐想被幽灵幼女治愈。 | Shachiku-san wa Youjo Yuurei ni Iyasaretai. | Upd. | CHS |
 
 ## 2021 冬季
 
@@ -36,10 +38,8 @@
 
 ## 2021 秋季
 
-> 《当雏菊邂逅少女》BDrip 简体内嵌、内封字幕预计 5 月发布。
-
 | 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
 | ------ | --------------- | ---- | ---- |
-| 当雏菊邂逅少女 | Deji Meets Girl | Fin. / BD. Pln. | CHS |
+| 当雏菊邂逅少女 | Deji Meets Girl | BD. Fin. | CHS & CHT |
 | 看得见的女孩 | Mieruko-chan | Fin. | CHS |
 | 加油！同期酱 | Ganbare Douki-chan | Fin. | CHS & CHT |
