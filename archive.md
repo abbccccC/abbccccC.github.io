@@ -2,7 +2,7 @@
 
 > 对于连载中的动画，本组制作的简体内嵌字幕均使用 AVC 编码。动画完结后统一发布内嵌字幕修正和内封字幕合集，使用 HEVC 编码。
 >
-> 2022 春季及以后的作品都会发布在 [萌番组](https://bangumi.moe/tag/61be18a62525b00007a3d27b) 和 [动漫花园](https://share.dmhy.org/)。
+> 2022 春季及以后的作品都会发布在 [萌番组](https://bangumi.moe/tag/61be18a62525b00007a3d27b) 和 [动漫花园](https://share.dmhy.org/topics/list/team_id/813)。
 
 | 简记 | 全称 | 状态释义 |
 | ---- | ---- | -------- |
@@ -11,18 +11,24 @@
 | Upd. | Updating | 随剧集更新 |
 | Abd. | Abandoned | 放弃制作 |
 
+## 2022 夏季
+
+| 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
+| ------ | --------------- | ---- | ---- |
+| 影宅 第二季 | Shadows House S2 | Pln.(大概) | CHS |
+
 ## 2022 春季
 
-> 特殊：发布《间谍过家家》 4k 内封字幕版本（由洛心.超分），完结后不另发合集。
+> 特殊：发布《间谍过家家》 4k 内封字幕版本（由洛心.超分）。（已中止）
 
-| 中文名 | 罗马音 / 英文名 | 状态 | 语言 | 备注
-| ------ | --------------- | ---- | ---- | ---- |
-| 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. | CHS |  |
-| RPG 不动产 | RPG Fudousan | Upd. | CHS |  |
-| 间谍过家家 | Spy x Family | Upd. | CHS |  |
-| 鬼裤衩 | Onipan! | Upd. | CHS |  |
-| 街角魔族 2丁目 | Machikado Mazoku S2 | Abd. | CHS | 欢迎移步 [LavaAnime](https://lavaanime.top/#/) 观看 |
-| 社畜小姐想被幽灵幼女治愈。 | Shachiku-san wa Youjo Yuurei ni Iyasaretai. | Upd. | CHS |  |
+| 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
+| ------ | --------------- | ---- | ---- |
+| 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. | CHS |
+| RPG 不动产 | RPG Fudousan | Upd. | CHS |
+| 间谍过家家 | Spy x Family | Upd. | CHS |
+| 鬼裤衩 | Onipan! | Upd. | CHS |
+| 街角魔族 2丁目 | Machikado Mazoku S2 | Upd. | CHS |
+| 社畜小姐想被幽灵幼女治愈。 | Shachiku-san wa Youjo Yuurei ni Iyasaretai. | Upd. | CHS |
 
 ## 2021 冬季
 

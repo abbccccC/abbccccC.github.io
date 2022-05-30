@@ -1,6 +1,6 @@
 # 下载说明
 
-本组的作品发布在[萌番组](https://bangumi.moe/tag/61be18a62525b00007a3d27b)、[动漫花园](https://share.dmhy.org/)和[喵呜动漫](https://meows.com.cn/)。修正版字幕统一在合集时发出。
+本组的作品发布在[萌番组](https://bangumi.moe/tag/61be18a62525b00007a3d27b)、[动漫花园](https://share.dmhy.org/topics/list/team_id/813)。修正版字幕统一在合集时发出。
 
 请优先选择使用种子或磁链下载，并使用正规的 BT 下载软件（如qBittorrent、BitComet），下载完成后请做种。
 
