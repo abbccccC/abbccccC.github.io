@@ -15,7 +15,8 @@
 
 | 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
 | ------ | --------------- | ---- | ---- |
-| 影宅 第二季 | Shadows House S2 | Pln.(大概) | CHS |
+| 铳动彼岸花 | Lycoris Recoil | Upd. | CHS&JPN |
+| 影宅 第二季 | Shadows House S2 | Upd. | CHS |
 
 ## 2022 春季
 
@@ -23,12 +24,12 @@
 
 | 中文名 | 罗马音 / 英文名 | 状态 | 语言 |
 | ------ | --------------- | ---- | ---- |
-| 测不准的阿波连同学 | Aharen-san wa Hakarenai | Upd. | CHS |
-| RPG 不动产 | RPG Fudousan | Upd. | CHS |
-| 间谍过家家 | Spy x Family | Upd. | CHS |
-| 鬼裤衩 | Onipan! | Upd. | CHS |
-| 街角魔族 2丁目 | Machikado Mazoku S2 | Upd. | CHS |
-| 社畜小姐想被幽灵幼女治愈。 | Shachiku-san wa Youjo Yuurei ni Iyasaretai. | Upd. | CHS |
+| 测不准的阿波连同学 | Aharen-san wa Hakarenai | Fin. | CHS |
+| RPG 不动产 | RPG Fudousan | Fin. | CHS |
+| 间谍过家家 | Spy x Family | Fin. | CHS |
+| 鬼裤衩 | Onipan! | Fin. | CHS |
+| 街角魔族 2丁目 | Machikado Mazoku S2 | Fin. / BD Pln. | CHS&JPN |
+| 社畜小姐想被幽灵幼女治愈。 | Shachiku-san wa Youjo Yuurei ni Iyasaretai. | Fin. | CHS |
 
 ## 2021 冬季
 
